@@ -1,0 +1,5 @@
+Hello!
+This is a text file.
+It stores images.
+
+8.22.2020
