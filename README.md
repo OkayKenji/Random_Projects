@@ -1,4 +1,3 @@
-# A-Test-Project
-A test project to understand how git/github works!
+# Random_Projects
 
-Please don't read me.
+Formally "A-Test-Project"
