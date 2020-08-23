@@ -1,5 +1,0 @@
-Hello!
-This is a text file.
-It stores text.
-
-Not sure what to write here. 
