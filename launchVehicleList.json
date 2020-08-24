@@ -7,42 +7,42 @@
       "rockets" : [
         {
           "vehicle"      : "Ariane 1",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Ariane 2",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Ariane 3",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Ariane 4",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Ariane 5", 
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Ariane 6", 
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Under development"
         },
         {
           "vehicle"      : "Vega",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Vega-C",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Under development"
         }
       ]
@@ -52,22 +52,22 @@
       "rockets" : [
         {
           "vehicle"      : "Charon", 
-          "(sub)orbital" : "Sub-orbital",
+          "type"         : "Sub-orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Goddard",
-          "(sub)orbital" : "Sub-orbital",
+          "type"         : "Sub-orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "New Glenn",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Under development"
         },
         {
           "vehicle"      : "New Shepard",
-          "(sub)orbital" : "Sub-orbital",
+          "type"         : "Sub-orbital",
           "status"       : "Active"
         }
       ]
@@ -78,22 +78,22 @@
       "rockets" : [
         {
           "vehicle"      : "Falcon 1", 
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Falcon 9",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Falcon Heavy",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Starship",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Under development"
         }
       ]
@@ -103,27 +103,27 @@
       "rockets" : [
         {
           "vehicle"      : "Delta II",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Delta 1V", 
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Delta IV Heavy",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Atlas V",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Vulcan",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Under development"
         }
       ]
@@ -133,12 +133,12 @@
       "rockets" : [
         {
           "vehicle"      : "Ātea",
-          "(sub)orbital" : "Sub-orbital",
+          "type"         : "Sub-orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Electron",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         }
       ]
@@ -148,7 +148,7 @@
       "rockets" : [
         {
           "vehicle"      : "Rocket 3",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         }
       ]
@@ -158,7 +158,7 @@
       "rockets" : [
         {
           "vehicle"      : "LauncherOne",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         }
       ]
@@ -168,7 +168,7 @@
       "rockets" : [
         {
           "vehicle"      : "SpaceShipTwo",
-          "(sub)orbital" : "Sub-orbital",
+          "type"         : "Sub-orbital",
           "status"       : "Active"
         }
       ]
@@ -179,37 +179,37 @@
       "rockets" : [
         {
           "vehicle"      : "H-I",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "H-II",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "H-IIA",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "H-IIB",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "H-3",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Under development"
         },
         {
           "vehicle"      : "N-I",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "N-II",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         }
       ]
@@ -219,56 +219,55 @@
       "rockets" : [
         {
           "vehicle"      : "Antares",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Minotaur-C",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Retired"
         },
         {
           "vehicle"      : "Minotaur I",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Minotaur II",
-          "(sub)orbital" : "Sub-orbital",
+          "type"         : "Sub-orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Minotaur III",
-          "(sub)orbital" : "Sub-orbital",
+          "type"         : "Sub-orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Minotaur IV",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Minotaur V",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         },
         {
           "vehicle"      : "Minotaur VI",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Concept"
         }, 
         {
           "vehicle"      : "Pegasus",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Active"
         }, 
         {
           "vehicle"      : "OmegA",
-          "(sub)orbital" : "Orbital",
+          "type"         : "Orbital",
           "status"       : "Canceled"
         }
       ]
     }
-    
   ]
 }
